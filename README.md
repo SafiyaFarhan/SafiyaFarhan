@@ -6,10 +6,10 @@
 ---  
 
 ### **Current Skills (Proven, Not Claimed)**  
-✅ **SQL** – Building queries, databases (see my **Note-Taking App** below)  
-✅ **Python** – GUI development, scripting (CS50 in progress)  
-✅ **Data Tools** – Pandas (learning), Excel (basic)  
-✅ **Git/GitHub** – Actively learning version control  
+1. **SQL** – Building queries, databases (see my **Note-Taking App** below)  
+2. **Python** – GUI development, scripting (CS50 in progress)  
+3. **Data Tools** – Pandas (learning), Excel (basic)  
+4. **Git/GitHub** – Actively learning version control  
 
 *(I only list what I’ve actually built—no fake expertise.)*  
 
@@ -35,10 +35,10 @@
 ---  
 
 ### **2025 Goals (Transparent Timeline)**  
-✔ **Finish Google Data Analytics Cert** *(Started July 2024)*  
-✔ **Build 3 More Mini-Projects** (SQL + Python)  
-✔ **Kaggle: Complete 1 Dataset Analysis**  
-✔ **GitHub: 50+ Commits by December** *(Tracking publicly!)*  
+1. **Finish Google Data Analytics Cert** *(Started July 2024)*  
+2. **Build 3 More Mini-Projects** (SQL + Python)  
+3. **Kaggle: Complete 1 Dataset Analysis**  
+4. **GitHub: 50+ Commits by December** *(Tracking publicly!)*  
 
 ---  
 
