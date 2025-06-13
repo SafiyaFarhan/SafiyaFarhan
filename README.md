@@ -65,7 +65,7 @@
 ---  
 
 ### **Current Tech Stack**  
-`Python (Basics + Tkinter)` `SQL` `SQLite` `Git (Learning)` `Excel`  
+`Python (Basics + Tkinter)` `SQL` `SQLite` `Git (Learning)`  
 
 *(Adding Pandas, Matplotlib, and advanced SQL soon!)*  
 
