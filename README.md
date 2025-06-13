@@ -59,12 +59,12 @@
 ---  
 
 ### **Let’s Connect**  
-🔗 [LinkedIn](#) *(Coming soon—focusing on skills first!)*  
-📧 **Email:** [safiyafarhanwork@gmail.com] *(Open to advice & opportunities!)*  
+ [LinkedIn](#) *(Coming soon—focusing on skills first!)*  
+ **Email:** [safiyafarhanwork@gmail.com] *(Open to advice & opportunities!)*  
 
 ---  
 
-### **🛠Current Tech Stack**  
+### **Current Tech Stack**  
 `Python (Basics + Tkinter)` `SQL` `SQLite` `Git (Learning)` `Excel`  
 
 *(Adding Pandas, Matplotlib, and advanced SQL soon!)*  
@@ -75,7 +75,7 @@
 
 ---  
 
-### **🔥 My Mantra**  
+### **My Mantra**  
 *"Code badly, Fix it, Repeat. No hiding."*  
 
 ---  
