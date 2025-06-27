@@ -37,6 +37,7 @@
 - Explnation of how generative AI works
 - Description of generative AI model types
 - Description of generative AI applications
+- **[View Badge](https://www.cloudskillsboost.google/course_templates/536/badge)**
 
 ---  
 
