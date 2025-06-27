@@ -15,7 +15,7 @@
 
 ---  
 
-### **Recent Projects (Small but Real)**  
+### **Recent Projects (Small but Real), Certifications And Courses**  
 
 #### **1. Python + SQL Note-Taking App (GUI + Database)**  
 - **Tech Used:** `Python (Tkinter)`, `SQLite`  
@@ -30,14 +30,20 @@
 
 #### **3. CS50 (Harvard) – In Progress**  
 - Learning **Python, Algorithms, Data Structures**.  
-- Will upload problem sets to GitHub.  
+- Will upload problem sets to GitHub.
+
+#### **4. Introduction to Generative AI (Google Cloud) - Completed**
+- Generative AI definition
+- Explnation of how generative AI works
+- Description of generative AI model types
+- Description of generative AI applications
 
 ---  
 
 ### **2025 Goals (Transparent Timeline)**  
 1. **Finish Google Data Analytics Cert** *(Started July 2024)*  
 2. **Build 3 More Mini-Projects** (SQL + Python)  
-3. **Kaggle: Complete 1 Dataset Analysis**  
+3. **Kaggle: Complete 5 Dataset Analysis**  
 4. **GitHub: 50+ Commits by December** *(Tracking publicly!)*  
 
 ---  
