@@ -66,7 +66,8 @@
 ---  
 
 ### **Let’s Connect**  
- [LinkedIn](#) *(Coming soon—focusing on skills first!)*  
+ [LinkedIn](www.linkedin.com/in/
+safiya-farhan-918ab935a)  
  **Email:** [safiyafarhanwork@gmail.com] *(Open to advice & opportunities!)*  
 
 ---  
