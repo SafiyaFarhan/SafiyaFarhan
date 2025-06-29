@@ -72,7 +72,7 @@
 ---  
 
 ### **Current Tech Stack**  
-`Python (Basics + Tkinter)` `SQL` `SQLite` `Git (Learning)`  
+`Python (Basics + Tkinter)` `SQL` `SQLite` `Git (Learning)`  `Postgresql`
 
 *(Adding Pandas, Matplotlib, and advanced SQL soon!)*  
 
