@@ -66,8 +66,7 @@
 ---  
 
 ### **Let’s Connect**  
- [LinkedIn](www.linkedin.com/in/
-safiya-farhan-918ab935a)  
+ **[LinkedIn](www.linkedin.com/in/safiya-farhan-918ab935a)**  
  **Email:** [safiyafarhanwork@gmail.com] *(Open to advice & opportunities!)*  
 
 ---  
