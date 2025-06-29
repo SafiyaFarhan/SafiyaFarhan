@@ -1,4 +1,4 @@
-# **Safiya Farhan | Aspiring Data Engineer & Analyst**
+# **Safiya Farhan | Aspiring Data Scientist & Analyst**
 **A-Levels Student (Math, Stats, CS, Physics) | Building in Public | Pakistan**  
 
 *(No fluff—just real progress, real skills, real struggles.)*  
@@ -37,7 +37,7 @@
 - Explnation of how generative AI works
 - Description of generative AI model types
 - Description of generative AI applications
-- **[View Badge](https://www.cloudskillsboost.google/course_templates/536/badge)**
+- **[View Badge]([https://www.cloudskillsboost.google/course_templates/536/badge](https://www.cloudskillsboost.google/public_profiles/68aa8c4c-6f05-4f15-b4c3-dc4289de0ada/badges/16752976))**
 
 ---  
 
