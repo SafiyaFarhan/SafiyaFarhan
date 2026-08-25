@@ -26,7 +26,8 @@
 #### **2. SQL Mastery (Ongoing)**  
 - Learning SQL in a Udemy SQL Masterclass course 
 - Practicing **30+ real-world queries** (joins, subqueries, optimizations).  
-- Will post solutions on GitHub + LinkedIn.  
+- Earned a [**Certificate of Completion**](file:///D:/SQL%20Masterclass%202025%20Udemy%20Course/Sql%20course%20Certififcate.pdf)
+- Continuing to strengthen my SQL skills through hands-on projects and practice.
 
 #### **3. CS50 (Harvard) – In Progress**  
 - Learning **Python, Algorithms, Data Structures**.  
